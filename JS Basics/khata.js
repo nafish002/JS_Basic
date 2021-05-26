@@ -49,3 +49,6 @@ console.log(Object.entries(obj));
 let s1 = Symbol();
 let s2 = Symbol();
 console.log(s1 === s2);
+
+var a =2;
+console.log(a);
