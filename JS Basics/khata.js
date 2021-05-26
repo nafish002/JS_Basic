@@ -52,3 +52,5 @@ console.log(s1 === s2);
 
 var a =2;
 console.log(a);
+var a =2;
+console.log(a);
